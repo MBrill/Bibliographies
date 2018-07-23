@@ -1,2 +1,4 @@
+# gitignore für die bibtex-Dateien
+*.bak
 *~
 /biblatex_examples/
