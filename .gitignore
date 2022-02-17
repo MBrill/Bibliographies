@@ -1,6 +1,7 @@
 # gitignore für die bibtex-Dateien
 **/*.bak
-**/(*.sav
-**/(*.tmp
+**/*.sav
+**/*.tmp
+**/*.sav.tmp
 *~
 **/biblatex_examples/
